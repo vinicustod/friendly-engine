@@ -1,0 +1,6 @@
+framework module Pods_iOSBlankProject_iOSBlankProjectUITests {
+  umbrella header "Pods-iOSBlankProject-iOSBlankProjectUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
